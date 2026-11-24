@@ -17,7 +17,7 @@
 
 ## Live score / rank
 
-- (pending submit + round 1 — blind rounds, no live score until a round closes)
+- SUBMITTED 24 Nov ~12:07 WIB on Joni's "Setuju, submit haiku dan kiencx-excuse": submission 01a20bf3-c085-75ce-8f87-d39670bfc778, stage checked (passed its checks, stage scored). Bundle sha256 2b96cc2c8631b3d63fbea544e739e16231a3ef8db6b220fcebf888c42061db34 (224,389 B, fresh level-40 kit). Kit check ok=true, failed=[]. Blind 3 rounds, counts from round 1 of 3 (R1 cutoff 12:15 WIB today). Claim code ONLY in ~/.config/makefun/u-irvan-motion-seventeen-syllables-of-debugging-d194b605-submission.json (0600). Closes 24 Nov 20:15 WIB.
 
 ## Build log — resumed 24 Nov ~10:20 WIB (Joni "Lanjutkan")
 
