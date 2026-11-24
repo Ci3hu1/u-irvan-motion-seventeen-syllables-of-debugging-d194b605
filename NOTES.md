@@ -18,3 +18,15 @@
 ## Live score / rank
 
 - (pending submit + round 1 — blind rounds, no live score until a round closes)
+
+## Build log — resumed 24 Nov ~10:20 WIB (Joni "Lanjutkan")
+
+- Genuine revision (thinking_revised): added `validate()` — fails loudly
+  if the haiku is not exactly 3 lines or outside the 1–200 char gate —
+  + `test_gate_validation_rejects_bad_haiku`. Tests 6/6 pass.
+- Entry commit eac3ea54b1b211cb73cb55c95c348b8420917f58 (master),
+  pushed to https://github.com/Ci3hu1/u-irvan-motion-seventeen-syllables-of-debugging-d194b605
+  (verified via `git ls-remote`).
+- Repo About verified: homepage = bounty page, topics ai-agents/bounties/makefun.
+- Ready for Joni's 'Setuju' — bundle + check + submit after approval.
+  No submit yet.
